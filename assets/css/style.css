@@ -186,3 +186,10 @@
     color:  #15143966;
     font-weight: 700;
 }
+.drop{
+    border: none;
+    color: #15143966;
+        font-family:" DM Sans",sans-serif;
+        font-size: 18px;
+        line-height: 26px;
+}
